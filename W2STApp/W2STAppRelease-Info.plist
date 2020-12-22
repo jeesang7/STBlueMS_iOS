@@ -23,12 +23,6 @@
 			</array>
 		</dict>
 	</array>
-	<key>CFBundleTypeIconFiles</key>
-	<array/>
-	<key>CFBundleTypeName</key>
-	<array>
-		<string>com.st.bluems.document.ucf</string>
-	</array>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIdentifier</key>
@@ -43,6 +37,12 @@
 	<string>4.6.3</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleTypeIconFiles</key>
+	<array/>
+	<key>CFBundleTypeName</key>
+	<array>
+		<string>com.st.bluems.document.ucf</string>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>65</string>
 	<key>LSRequiresIPhoneOS</key>

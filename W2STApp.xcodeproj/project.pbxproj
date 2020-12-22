@@ -1671,7 +1671,7 @@
 				ORGANIZATIONNAME = STMicroelectronics;
 				TargetAttributes = {
 					EA68CFA918D0CB75003B774E = {
-						DevelopmentTeam = 9L4QA9SNQK;
+						DevelopmentTeam = BL25SY9P6Q;
 						DevelopmentTeamName = "STMICROELECTRONICS, INC";
 						LastSwiftMigration = 1020;
 						SystemCapabilities = {
@@ -2466,7 +2466,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 66;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 9L4QA9SNQK;
+				DEVELOPMENT_TEAM = BL25SY9P6Q;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2489,7 +2489,7 @@
 				);
 				MARKETING_VERSION = 4.6.4;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.st.clab.CloudTest;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.st.jeeslab.CloudTest;
 				PRODUCT_NAME = "ST BLE Sensor";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -2516,12 +2516,12 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_ENTITLEMENTS = "W2STApp/ST BlueMS.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 66;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 9L4QA9SNQK;
+				DEVELOPMENT_TEAM = BL25SY9P6Q;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2544,7 +2544,7 @@
 				);
 				MARKETING_VERSION = 4.6.4;
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = com.st.clab.CloudTest;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.st.jeeslab.CloudTest;
 				PRODUCT_NAME = "ST BLE Sensor";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
